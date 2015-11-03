@@ -1,0 +1,14 @@
+{
+  "name": "FanTuanDemoResources",
+  "authors": [
+    "info@animae.co.uk"
+  ],
+  "description": "resources to be used in the latest demo version",
+  "main": "",
+  "moduleType": [
+    "globals"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true
+}
